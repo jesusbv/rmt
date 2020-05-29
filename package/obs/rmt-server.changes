@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Fri May 29 14:54:06 UTC 2020 - Ivan Kapelyukhin <ikapelyukhin@suse.com>
+
+- Version 2.5.9
+- rmt-server-pubcloud: enforce strict authentication
+
+-------------------------------------------------------------------
 Tue May 19 12:31:53 UTC 2020 - Luís Caparroz <lcaparroz@suse.com>
 
 - Version 2.5.8
